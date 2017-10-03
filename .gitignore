@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+documents
+virtualenv
+*.log
+*.sqlite3
